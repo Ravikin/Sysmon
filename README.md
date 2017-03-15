@@ -13,6 +13,7 @@ lub jeśli posiadamy config i znajduje się on w tym samym folderze:
 sysmon -i sysmon_config.xml -n -accepteula
 ```
 i to by było na tyle. Serio :)
+
 Możemy ewentualnie zmienić rozmiar bufa Windows Event Loga.
 
 ### Sysmon Config
