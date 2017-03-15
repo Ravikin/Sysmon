@@ -1,5 +1,5 @@
 # Sysmon
-Podstawowa konfiguracja i wdrożenie Syinternals [Sysmon](https://technet.microsoft.com/en-us/sysinternals/sysmon)
+Podstawowa konfiguracja i wdrożenie Syinternals [Sysmon](https://technet.microsoft.com/en-us/sysinternals/sysmon) oraz monitoring z wykorzystaniem [Splunk'a](https://splunk.com)
 
 ### Instalacja
 
