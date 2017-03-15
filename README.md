@@ -16,6 +16,9 @@ sysmon -i sysmon_config.xml -n -accepteula
 ## Splunk Universal Forwarder [KLIK](https://github.com/Ravikin/Sysmon/tree/master/SplunkUniversalForwarder)
 Przykładowa konfiguracja forwardera Splunka na stacji monitorowanej.
 
+- [inputs.conf](https://github.com/Ravikin/Sysmon/blob/master/SplunkUniversalForwarder/inputs.conf)
+- [outputs.conf](https://github.com/Ravikin/Sysmon/blob/master/SplunkUniversalForwarder/outputs.conf)
+
 ## Splunk
 
 ## Sysmon Config
