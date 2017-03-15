@@ -3,7 +3,7 @@ Podstawowa konfiguracja i wdrożenie Syinternals [Sysmon](https://technet.micros
 
 ### Instalacja
 
-Pobieramy [Sysmona](https://technet.microsoft.com/en-us/sysinternals/sysmon), umieszczamy poza ścieżką `C:\Users` i instalujemy poleceniem z konsoli:
+Pobieramy [Sysmona](https://technet.microsoft.com/en-us/sysinternals/sysmon), umieszczamy **poza** ścieżką `C:\Users` i instalujemy poleceniem z konsoli:
 ```
 sysmon -i -n -accepteula
 ```
