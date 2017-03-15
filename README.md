@@ -23,6 +23,8 @@ Możemy ewentualnie zmienić rozmiar bufa Windows Event Loga.
 ## Splunk
 
 ### Konfiguracja źródła
+Należy dodać jedynie odbieranie zdarzeń na wskazanym porcie. 
+Ewentualnie można dodać nowy index pod zdarzenia Sysmona ale konfiguracja tego jest już wedle uznania :)
 
 ## Splunk Universal Forwarder [KLIK](https://github.com/Ravikin/Sysmon/tree/master/SplunkUniversalForwarder)
 Przykładowa konfiguracja forwardera Splunka na stacji monitorowanej.
