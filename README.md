@@ -17,6 +17,9 @@ Możemy ewentualnie zmienić rozmiar bufa Windows Event Loga.
 
 ### Sysmon Config
 
+1. Najpopularniejszy config [SwiftOnSecurity](https://github.com/SwitfOnSecurity/sysmon-conf)
+2. Fork Swift'a wyedytowany pod serwery [ion-storm](https://github.com/ion-storm/sysmon-config/blob/master/sysmonconfig-export.xml)
+
 ## Splunk
 
 ### Konfiguracja źródła
