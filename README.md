@@ -7,11 +7,15 @@ Pobieramy [Sysmona](https://technet.microsoft.com/en-us/sysinternals/sysmon), um
 ```
 sysmon -i -n -accepteula
 ```
-lub jeśli posiadamy konfig i znajduje się on w tym samym folderze:
+lub jeśli posiadamy config i znajduje się on w tym samym folderze:
 
 ```
 sysmon -i sysmon_config.xml -n -accepteula
 ```
+i to by było na tyle. Serio :)
+Możemy ewentualnie zmienić rozmiar bufa Windows Event Loga.
+
+### Sysmon Config
 
 ## Splunk Universal Forwarder [KLIK](https://github.com/Ravikin/Sysmon/tree/master/SplunkUniversalForwarder)
 Przykładowa konfiguracja forwardera Splunka na stacji monitorowanej.
@@ -20,5 +24,3 @@ Przykładowa konfiguracja forwardera Splunka na stacji monitorowanej.
 - [outputs.conf](https://github.com/Ravikin/Sysmon/blob/master/SplunkUniversalForwarder/outputs.conf)
 
 ## Splunk
-
-## Sysmon Config
