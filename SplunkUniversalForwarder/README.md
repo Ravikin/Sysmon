@@ -94,3 +94,6 @@ Type "help [command]" to get help with parameters for a specific command.
 
 Complete documentation is available online at: http://docs.splunk.com/Documentation
 ```
+
+## Przykładowe dodanie forwardu do serwera docelowego
+`splunk add forward-server <address_ip>:<port>`
